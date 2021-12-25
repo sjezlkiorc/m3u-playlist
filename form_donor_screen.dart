@@ -4,7 +4,7 @@ import 'package:tk2_pbp/helpers/authenticated_request.dart';
 import 'package:provider/provider.dart';
 
 class FormDonorScreen extends StatefulWidget {
-  static const routeName = '/form_donor';
+  static const routeName = '/form_donr';
     
   const FormDonorScreen({Key? key}) : super(key: key);
     
